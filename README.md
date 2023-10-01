@@ -7,9 +7,15 @@
 
 <h1 align="center">Hello 👋, I'm Saurabh Khadsang</h1>
 <h3 align="center"> I'm a passionate Full Stack Web Developer with expertise in SQL, Data Structures and Algorithms (DSA), and Object-Oriented Programming (OOP). </h3>
-<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" <p align="left">
+<!-- <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" <p align="left">
+---->
 <img align="right" alt="gif" width="400" src="https://s6.gifyu.com/images/S4eGJ.gif" <p align="left">
- <img src="https://komarev.com/ghpvc/?username=saurabhkhadsang&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkhadsang" /> </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhkhadsang&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkhadsang" />
+</div>
+
+
 
 - 🌱 I’m currently a full stack MERN developer 
 
@@ -36,13 +42,14 @@
 <hr>
 
 
-![saurabhkhadsang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkhadsang&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkhadsang&theme=react&show_icons=true&hide_border=true&layout=compact" alt="saurabhkhadsang" /></p>
 
-![saurabhkhadsang's Stats](https://github-readme-stats.vercel.app/api?username=saurabhkhadsang&theme=react&show_icons=true&hide_border=true&count_private=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkhadsang&theme=react&show_icons=true&hide_border=true&count_private=false" alt="saurabhkhadsang" /></p>
 
-![saurabhkhadsang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhkhadsang&theme=react&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkhadsang&theme=react&hide_border=true" alt="saurabhkhadsang" /></p>
+
 
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkhadsang&show_icons=true&locale=en&layout=compact" alt="saurabhkhadsang" /></p>
