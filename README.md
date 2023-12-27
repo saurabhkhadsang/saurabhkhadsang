@@ -9,7 +9,7 @@
 <h3 align="center"> I'm a passionate Full Stack Web Developer with expertise in SQL, Data Structures and Algorithms (DSA), and Object-Oriented Programming (OOP). </h3>
 <!-- <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" <p align="left">
 ---->
-<img align="right" alt="gif" width="400" src="https://s6.gifyu.com/images/S4eGJ.gif" <p align="left">
+<!-- <img align="right" alt="gif" width="400" src="https://s6.gifyu.com/images/S4eGJ.gif" <p align="left"> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saurabhkhadsang&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkhadsang" />
